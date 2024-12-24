@@ -1,0 +1,24 @@
+{
+  "name": "first_js_backend",
+  "version": "1.0.0",
+  "description": "making demo express backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev" : "nodemon index.js"
+  },
+  "keywords": [
+    "js",
+    "backend",
+    "practice"
+  ],
+  "author": "Abraham Scott",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
